@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecp2018.github.io/site-s40723214/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/site-s40723214/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/site-s40723214/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecp2018.github.io/site-s40723214/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecp2018.github.io,2018-09-10:/site-s40723214/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecp2018.github.io/site-s40723214/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/site-s40723214/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/site-s40723214/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall s40723214網誌</title><link href="https://mdecp2018.github.io/site-s40723214/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecp2018.github.io,2018-09-10:/site-s40723214/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合&lt;/p&gt;
+&lt;p&gt;Week1&lt;/p&gt;
+&lt;p&gt;.收了期中作業倉儲 學會改版 流程如下:&lt;/p&gt;
+&lt;p&gt;git clone到近端&amp;gt;用python編輯網站&amp;gt;轉成靜態網站&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;gitadd&amp;gt;git commit&amp;gt;git push&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Week2&lt;/p&gt;
+&lt;p&gt;將倉儲轉成gh-pages分支&lt;/p&gt;
+&lt;p&gt;利用git branch查詢分支&lt;/p&gt;
+&lt;p&gt;用leo editor打開cmsimfly 查看原始碼&lt;/p&gt;
+&lt;p&gt;開始編輯網站 插入超連結.圖片&lt;/p&gt;
+&lt;p&gt;管理網際投影片和網誌&lt;/p&gt;
+&lt;p&gt;投影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CI5GVBN-27o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;網誌&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w5OGSeMLWx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合&lt;/p&gt;
+&lt;p&gt;Week1&lt;/p&gt;
+&lt;p&gt;.收了期中作業倉儲 學會改版 流程如下:&lt;/p&gt;
+&lt;p&gt;git clone到近端&amp;gt;用python編輯網站&amp;gt;轉成靜態網站&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;gitadd&amp;gt;git commit&amp;gt;git push&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Week2&lt;/p&gt;
+&lt;p&gt;將倉儲轉成gh-pages分支&lt;/p&gt;
+&lt;p&gt;利用git branch查詢分支&lt;/p&gt;
+&lt;p&gt;用leo editor打開cmsimfly 查看原始碼&lt;/p&gt;
+&lt;p&gt;開始編輯網站 插入超連結.圖片&lt;/p&gt;
+&lt;p&gt;管理網際投影片和網誌&lt;/p&gt;
+&lt;p&gt;投影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CI5GVBN-27o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;網誌&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w5OGSeMLWx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
